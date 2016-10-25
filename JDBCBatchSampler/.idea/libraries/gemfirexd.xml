@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="gemfirexd">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../GemFire/installers/gemfirexd-latest/lib/gemfirexd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../GemFire/installers/gemfirexd-latest/lib/gemfirexd-client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../GemFire/installers/gemfirexd-latest/lib/gemfirexd.jar!/" />
+    </SOURCES>
+  </library>
+</component>

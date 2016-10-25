@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2709346971">
+    <data-source source="LOCAL" name="GFXD -" uuid="aed7a948-48aa-421e-88a3-0d8471b80811">
+      <driver-ref>java.sql.Driver</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.pivotal.gemfirexd.jdbc.ClientDriver</jdbc-driver>
+      <jdbc-url>jdbc:gemfirexd://192.168.1.8:1527/</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
